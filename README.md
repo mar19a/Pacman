@@ -1,3 +1,4 @@
 # Pacman
-Pacman game using JAVA
 ![](pacmangameplay.gif)
+
+First ever game using JAVA
